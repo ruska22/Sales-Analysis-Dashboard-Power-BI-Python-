@@ -26,9 +26,11 @@ o	რეგიონული ანალიზი
 o	Top products treemap 
 o	სრული რაოდენობების ანალიზი კატეგორიების მიხედვით
 
------------
+
  for English scroll down
------------
+|
+|
+|
 
 Overview
 
