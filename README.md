@@ -1,37 +1,4 @@
 # Sales-Analysis-Dashboard-Power-BI-Python-
-პროექტის აღწერა
-პროექტი აჩვენებს გაყიდვების ანალიტიკას:
-•	გენერირებული 5 მილიონიანი random ბაზა Python-ის გამოყენებით 
-•	მონაცემების გაწმენდა, ტრანსფორმაცია და აგრეგაცია 
-•	ბიზნეს მოთხოვნების ვიზუალიზაცია Power BI Dashboard-ში 
-პროექტი აჩვენებს data engineering, data analysis და business intelligence უნარებს.
-სტრუქტურა
-Python სკრიპტები
-1.	generate_sales_data.py 
-o	ქმნის გაყიდვების dataset-ს 
-o	შემთხვევითი პროდუქტები, კატეგორიები, რეგიონები და თარიღები, ღირებულება, რაოდენობა, ფასდაკლება, შემოსავალი.
-2.	sales_analysis.py 
-o	მონაცემების გაწმენდა და preprocessing 
-o	ახალი სვეტების შექმნა: Year, Month, MonthName, OrderValue 
-o	მონაცემების აგრეგაცია: 
-	თვიური შემოსავალი 
-	საუკეთესო პროდუქტები 
-	რეგიონული გაყიდვები 
-o	CSV ფაილების ექსპორტი Power BI-სთვის
-Power BI Dashboard
-•	ინტერაქტიული dashboard: 
-o	KPI (Revenue, Orders, Quantity, Avg Order Value) 
-o	თვიური შემოსავლის ტრენდები 
-o	რეგიონული ანალიზი 
-o	Top products treemap 
-o	სრული რაოდენობების ანალიზი კატეგორიების მიხედვით
-
-
- for English scroll down
-|
-|
-|
-
 Overview
 
 This project demonstrates a full sales analytics workflow:
