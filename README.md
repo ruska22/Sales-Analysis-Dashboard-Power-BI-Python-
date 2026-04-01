@@ -1,4 +1,4 @@
-# Sales-Analysis-Dashboard-Power-BI-Python-
+# Sales-Analysis-Dashboard (PowerBI + Python)
 Overview
 
 This project demonstrates a full sales analytics workflow:
